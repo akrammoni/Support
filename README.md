@@ -24,6 +24,7 @@ Using another supported crypto wallet:
 If your wallet supports Binance Pay QR payments, open its Scan/Pay function and scan the QR code.
 
 🪙 Binance Pay QR
+![Binance Pay Support QR](binance.jpeg)
 
 "Binance Pay Support QR" (binance-pay-qr.png)
 
